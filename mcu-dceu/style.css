@@ -2,3 +2,16 @@
 
 
 /* NEW CSS HERE */
+th,td {
+    border:1px solid lightgray;
+    padding: 10px;
+}
+td img{
+    width:150px;
+
+}
+th {
+    text-align:center;
+    background-color: lightgray;
+
+}
